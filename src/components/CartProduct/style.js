@@ -21,6 +21,7 @@ export const Div = styled.div`
   h2 {
     margin: 15px 0;
     color: whitesmoke;
+    width: 200px;
   }
   p {
     color: whitesmoke;
